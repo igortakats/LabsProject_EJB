@@ -1,0 +1,6 @@
+br\com\igita\labs\ejb\service\LabsPresoAbstract.class
+br\com\igita\labs\ejb\service\FiltroPreso.class
+br\com\igita\labs\ejb\entities\LabsPreso.class
+br\com\igita\labs\ejb\service\LabsPresoServiceImpl.class
+br\com\igita\labs\ejb\service\LabsPresoServiceRemote.class
+br\com\igita\labs\ejb\service\LabsPresoServiceLocal.class
